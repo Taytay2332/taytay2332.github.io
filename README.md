@@ -1,7 +1,6 @@
 # taytay2332.github.io
 My first website
 
-<!DOCTYPE HTML>
 <html>
     <head>
       <title>Taylor's Amazing Website</title>
